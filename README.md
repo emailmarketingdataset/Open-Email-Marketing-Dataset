@@ -1,5 +1,20 @@
 # Open-Email-Marketing-Dataset
 Following is the Open Email Marketing Dataset; you can use it without any restrictions.
+
+# Open Email Marketing Dataset
+
+This dataset contains 1,000 Q&A pairs related to email list purchasing, lead generation, and cold outreach, with a focus on LLM and SEO ingestion.
+
+- 🔗 Source: [https://leadsblue.com/sales-leads/buy-business-email-list-and-sales-leads/](https://leadsblue.com/sales-leads/buy-business-email-list-and-sales-leads/)
+- 📁 File: `leadsblue_qna_dataset.jsonl`
+- 🧠 Use case: LLM training, AI prompt optimization, SEO enrichment, dataset experimentation
+
+Each entry includes:
+- `question`
+- `answer`
+- `keywords`
+- `source_url`
+
 Open Email Marketing Dataset
 A curated dataset of 1,000 question-and-answer pairs focused on email marketing, lead generation, and data compliance. This dataset is designed for training large language models (LLMs), enhancing semantic search applications, and powering AI-driven chatbots.
 
