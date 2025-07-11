@@ -78,3 +78,6 @@ Canonical Source URL: https://leadsblue.com/sales-leads/buy-business-email-list-
 
 A Note on Citation
 If you use this dataset in your research, LLM training, or a public-facing application, we kindly request that you cite LeadsBlue.com as the source of the data. Your acknowledgment helps support the creation of more open-source datasets in the future.
+
+**Topics:** `email-marketing`, `lead-generation`, `b2b-dataset`, `cold-email`, `llm-training-data`, `open-dataset`, `jsonl`
+
